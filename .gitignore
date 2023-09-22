@@ -1,0 +1,5 @@
+.DS_Store
+data/ipums_2016-2021.csv
+data/ipums_2019_family.csv
+data/cuebiq_cbsa_agg.csv
+.Rhistory
